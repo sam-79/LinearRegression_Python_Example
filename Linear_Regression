@@ -8,7 +8,7 @@ import pandas as pd
 
 #loading tip dataset 
 
-df=pd.read_csv("/storage/emulated/0/tips.csv")
+df=pd.read_csv("./tips.csv")
 
 #Specify independent variables
 
